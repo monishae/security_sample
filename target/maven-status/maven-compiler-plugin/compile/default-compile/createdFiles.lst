@@ -1,0 +1,15 @@
+com\emc\it\oai\sample\service\SecurityService.class
+com\emc\it\ooa\sample\User.class
+com\emc\it\ooa\sample\xpath\XpathRequestWrapper.class
+com\emc\it\ooa\sample\SecurityConfig.class
+com\emc\it\ooa\sample\xss\XSSRequestWrapper.class
+com\emc\it\ooa\sample\sqlinj\SQLFilter.class
+com\emc\it\ooa\sample\WebAppConfiguration.class
+com\emc\it\ooa\sample\xss\XSSFilterNew.class
+com\emc\it\ooa\sample\HomeController.class
+com\emc\it\ooa\sample\UserController.class
+com\emc\it\ooa\sample\xpath\XpathFilter.class
+com\emc\it\ooa\sample\sqlinj\SQLRequestWrapper.class
+com\emc\it\oai\sample\domain\User.class
+com\emc\it\ooa\sample\csrf\CsrfHeaderFilter.class
+com\emc\it\ooa\sample\Application.class
